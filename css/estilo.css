@@ -1,0 +1,64 @@
+/*HEADER*/ 
+#fondo{
+    background-image: url('../img/Fondo.jpg');
+    background-attachment: fixed; 
+}   
+
+
+    /*TÍTULO*/
+h1{
+   color:#744671 !important;
+   text-align: center;
+   background-color: #fcdef4;
+   font-family: 'Times New Roman';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 35px;
+   line-height: 60px;
+}
+
+/*MÁS SOBRE MÍ*/
+p{
+    color: #744671;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+}
+
+/*SUBTÍTULOS*/
+h3{
+    color:#744671 !important;
+    background-color: #fcdef4;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+}
+
+/*TEXTO DE FUENTE*/
+li,dl,dd,dt,p{
+    font-family: 'Times New Roman';
+    font-size: 20px;
+}
+
+
+/*SANGRÍA*/
+dd{
+    text-indent: 59px;
+}
+
+/*FOOTER*/
+footer{
+    color:#FFFFFF !important;
+    text-align: center;
+    background-color: #744671;
+    line-height: 37px;
+    font-size: 20px;
+ }
+
+ /*FOOTER LOGOS*/
+.Github{
+    max-width: 40px;
+    background-color: #744671;
+    background-position: center;
+}
